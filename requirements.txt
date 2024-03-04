@@ -1,0 +1,12 @@
+# DO NOT include azure-functions-worker in this file
+# The Python Worker is managed by Azure Functions platform
+# Manually managing azure-functions-worker may cause unexpected issues
+
+azure-functions
+azure-functions-durable
+requests
+python-binance==1.0.7
+pandas==1.2.1
+finta==1.2
+numpy
+firebase_admin
