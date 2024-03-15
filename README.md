@@ -15,7 +15,7 @@ Veronica is a trade management software that helps you to divide your main balan
 - Ready for **TAlib** indicators
 
 
-## Requirements
+## Requirments
 
 ```bash
 requests
@@ -120,6 +120,9 @@ class Veronica():
     .
 ```
 **Veronica** will track valid strategy actions even if it didn't make any **real** buy
+## Known Issues
+
+ - **Perceptor**s between **Receptor**s won't work the way you want them to. For now, use **Perceptor**s for only initial buys.
 ## Deployment to Cloud
 
 Will be added soon with details..
