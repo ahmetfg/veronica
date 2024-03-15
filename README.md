@@ -15,7 +15,7 @@ Veronica is a trade management software that helps you to divide your main balan
 - Ready for **TAlib** indicators
 
 
-## Requirments
+## Requirements
 
 ```bash
 requests
